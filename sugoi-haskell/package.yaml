@@ -23,7 +23,9 @@ dependencies:
   - base >= 4.7 && < 5
 
 library:
-  source-dirs: src
+  source-dirs:
+    - src
+    - src/chap01
 
 executables:
   sugoi-haskell-exe:
