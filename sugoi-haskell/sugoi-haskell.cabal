@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 2cd876f8fd49388638f1bd5395ad2eeefef54522c29d2fbddc15004a1a5ca63b
+-- hash: 6413e9948ace004632f44e50f583236ce7e1ca206baa515198ce00308062cd7c
 
 name:           sugoi-haskell
 version:        0.1.0.0
@@ -28,10 +28,13 @@ source-repository head
 library
   exposed-modules:
       Lib
+      Double
+      List
   other-modules:
       Paths_sugoi_haskell
   hs-source-dirs:
       src
+      src/chap01
   build-depends:
       base >=4.7 && <5
   default-language: Haskell2010
