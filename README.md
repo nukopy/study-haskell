@@ -8,3 +8,5 @@ Haskell の勉強用リポジトリ
     - Stack の使い方
     - haskell-ide-engine（Haskell Language Server）のインストール
       - VSCode，Vim などエディタ，IDE のプラグインに必要
+- `study-haskell/sugoi-haskell`
+  - 「すごい Haskell たのしく学ぼう！」の写経，まとめ
