@@ -25,7 +25,6 @@ dependencies:
 library:
   source-dirs:
     - src
-    - src/chap01
 
 executables:
   sugoi-haskell-exe:
