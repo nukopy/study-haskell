@@ -1,2 +1,6 @@
+# my setting
+*.code-workspace
+
+# Haskell
 .stack-work/
 *~
