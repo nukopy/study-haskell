@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 16c519ccab3b86404daea3169b304b70c6d9539c9512d15441a92af45306af04
+-- hash: 3a157834d179923d62ed59b67fd4531180565c0ddff1ef0c80ae6824fbe187b0
 
 name:           sugoi-haskell
 version:        0.1.0.0
@@ -31,6 +31,7 @@ library
       A.B.D
       Chap01.Double
       Chap01.List
+      Chap01.Tuple
       Lib
   other-modules:
       Paths_sugoi_haskell
